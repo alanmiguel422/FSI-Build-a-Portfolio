@@ -6,6 +6,16 @@ H1{
     color: rgb(255, 0, 0);
 }
 
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cyan;
+}
+
+h3{
+    font-style: oblique;
+    font-family: cursive;
+    color: blanchedalmond;
+}
 
 div {
 color: rgb(0, 7, 104);
@@ -21,5 +31,5 @@ li{
 }
 
 a{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
